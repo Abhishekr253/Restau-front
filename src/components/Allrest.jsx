@@ -26,6 +26,6 @@ function Allrest() {
       <ResttCard restArray={rstData} />
     </div>
   )
-}
+} //allresr
 
 export default Allrest
